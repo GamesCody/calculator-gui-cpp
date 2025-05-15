@@ -1,0 +1,41 @@
+# Binaries
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+*.so
+*.a
+*.res
+
+# Build folders
+/build/
+
+# Visual Studio Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Resource compiler outputs
+resources.res
+resources.o
+
+# Fonts and icons (if not source)
+CALC.ico
+CALC.png
+Ubuntu-Bold.ttf
+
+# User-specific
+*.log
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore generated files
+RCa*
+
+# Ignore other temp files
+*.tmp
